@@ -54,9 +54,9 @@ Based on [2], we keep improving the performance. Recently, we obtained a version
 	</tr> 
 	<tr> 
 		<td>Max score</td> 
-		<td>690,548</td>
-		<td>100.0%</td> 
-		<td>100.0%</td> 
+		<td>367956</td>
+		<td>833300</td> 
+		<td>829300</td> 
 	</tr> 
 	<tr> 
 		<td>Ave score</td> 
