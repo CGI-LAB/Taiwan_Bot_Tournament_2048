@@ -15,56 +15,56 @@ However, we don't have much time to refactor the code and make nice documentatio
 Based on [2], we keep improving the performance. Recently, we obtained a version whose performance is better than Xi???, which was the best 2048 AI program in the world (to our knowledge), at https://github.com/nneonneo/2048-ai/pull/27. The newly improved program will be released some time later. All the performances are showned and compared in the following table.  
 
 <table align=center>
-	<tr> 
+	<tr align=center> 
 		<th>Indicators</th> 
 		<th>CGI-2048</th>
 		<th>Our Current Program</th>
 		<th>Xificurk's Program</th>
 	</tr>
 	
-	<tr> 
+	<tr align=center> 
 		<td>2048</td> 
 		<td>100.0%</td>
 		<td>100.0%</td> 
 		<td>100.0%</td> 
 	</tr> 
-	<tr> 
+	<tr align=center> 
 		<td>4096</td> 
 		<td>100.0%</td> 
 		<td>100.0%</td> 
 		<td>100.0%</td> 
 	</tr> 
-	<tr> 
+	<tr align=center> 
 		<td>8192</td> 
 		<td>94%</td> 
 		<td>99.5%</td> 
 		<td>99.1%</td> 
 	</tr> 
-	<tr> 
+	<tr align=center> 
 		<td>16384</td> 
 		<td>59%</td>
 		<td>93.6%</td> 
 		<td>92.7%</td> 
 	</tr> 
-	<tr> 
+	<tr align=center> 
 		<td>32768</td> 
 		<td>0%</td> 
 		<td>33.5%</td> 
 		<td>31.7%</td> 
 	</tr> 
-	<tr> 
+	<tr align=center> 
 		<td>Max score</td> 
 		<td>367956</td>
 		<td>833300</td> 
 		<td>829300</td> 
 	</tr> 
-	<tr> 
+	<tr align=center> 
 		<td>Ave score</td> 
 		<td>251794</td>
 		<td>446116</td> 
 		<td>442419</td> 
 	</tr> 
-	<tr> 
+	<tr align=center> 
 		<td>Speed</td> 
 		<td>1200 moves/sec</td>
 		<td>661 moves/sec</td> 
