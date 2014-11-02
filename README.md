@@ -33,40 +33,59 @@ Max Tile: 32768<br>
 Speed: 661.7 moves / second. 
 		<table align=center>
 			<tr> 
-				<th>1</th> 
-				<th>2</th> 
+				<th>Indicators</th> 
+				<th>CGI-2048</th>
+				<th>Our Current Program</th>
+				<th>Xificurk's Program</th>
 			</tr> 
 			<tr> 
 				<td>2048</td> 
+				<td>100.0%</td>
+				<td>100.0%</td> 
 				<td>100.0%</td> 
 			</tr> 
 			<tr> 
 				<td>4096</td> 
 				<td>100.0%</td> 
+				<td>100.0%</td> 
+				<td>100.0%</td> 
 			</tr> 
 			<tr> 
 				<td>8192</td> 
 				<td>99.3%</td> 
+				<td>100.0%</td> 
+				<td>100.0%</td> 
+				
 			</tr> 
 			<tr> 
 				<td>16384</td> 
-				<td>89.5%</td> 
+				<td>89.5%</td>
+				<td>100.0%</td> 
+				<td>100.0%</td> 
 			</tr> 
 			<tr> 
 				<td>32768</td> 
 				<td>27.1%</td> 
+				<td>100.0%</td> 
+				<td>100.0%</td> 
 			</tr> 
 			<tr> 
 				<td>Max score</td> 
-				<td>690,548</td> 
+				<td>690,548</td>
+				<td>100.0%</td> 
+				<td>100.0%</td> 
 			</tr> 
 			<tr> 
 				<td>Ave score</td> 
-				<td>412,376</td> 
+				<td>412,376</td>
+				<td>100.0%</td> 
+				<td>100.0%</td> 
 			</tr> 
 			<tr> 
 				<td>Speed</td> 
-				<td>About 1200 moves/sec</td> 
+				<td>About 1200 moves/sec</td>
+				<td>100.0%</td> 
+				<td>100.0%</td> 
 			</tr> 
 		</table>
 
