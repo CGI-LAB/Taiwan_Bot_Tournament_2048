@@ -31,6 +31,7 @@ Max Tile: 32768<br>
 16384: 93.6% <br>
 32768: 33.5% <br>
 Speed: 661.7 moves / second. 
+
 		<table align=center>
 			<tr> 
 				<th>Indicators</th> 
@@ -55,7 +56,6 @@ Speed: 661.7 moves / second.
 				<td>99.3%</td> 
 				<td>100.0%</td> 
 				<td>100.0%</td> 
-				
 			</tr> 
 			<tr> 
 				<td>16384</td> 
