@@ -12,7 +12,7 @@ Our algorithm is based on the following two papers:
 However, we don't have much time to refactor the code and make nice documentation. To run the program, use our trained data which can be downloaded from http://aigames.nctu.edu.tw/~cgilab/download/. The code for TD learning is not included, since the performance varies depending on the trained data anyway. 
 
 
-Based on [2], we keep improving the performance. Recently, we obtained a version whose performance is better than Xi???, which was the best 2048 AI program in the world (to our knowledge), at https://github.com/nneonneo/2048-ai/pull/27. The newly improved program will be released some time later. All the performances are showned and compared in the following table.  
+Based on [2], we keep improving the performance. Recently, we obtained a version whose performance is better than xificurk, which was the best 2048 AI program in the world (to our knowledge), at https://github.com/nneonneo/2048-ai/pull/27. The newly improved program will be released some time later. All the performances are showned and compared in the following table.  
 
 <table align=center>
 	<tr align=center> 
