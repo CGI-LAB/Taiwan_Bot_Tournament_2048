@@ -31,6 +31,40 @@ Max Tile: 32768<br>
 16384: 93.6% <br>
 32768: 33.5% <br>
 Speed: 661.7 moves / second. 
+		<table align=center border=1 bordercolor=#003366>
+			<tr> 
+				<td>2048</td> 
+				<td>100.0%</td> 
+			</tr> 
+			<tr> 
+				<td>4096</td> 
+				<td>100.0%</td> 
+			</tr> 
+			<tr> 
+				<td>8192</td> 
+				<td>99.3%</td> 
+			</tr> 
+			<tr> 
+				<td>16384</td> 
+				<td>89.5%</td> 
+			</tr> 
+			<tr> 
+				<td>32768</td> 
+				<td>27.1%</td> 
+			</tr> 
+			<tr> 
+				<td>Max score</td> 
+				<td>690,548</td> 
+			</tr> 
+			<tr> 
+				<td>Ave score</td> 
+				<td>412,376</td> 
+			</tr> 
+			<tr> 
+				<td>Speed</td> 
+				<td>About 1200 moves/sec</td> 
+			</tr> 
+		</table>
 
 The result beats the best 2048 AI program in the world (to the best of our knowledge), at  https://github.com/nneonneo/2048-ai/pull/27. More importantly, the speed of our program is about 300 times faster. 
 
