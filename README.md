@@ -3,13 +3,13 @@ CGI-2048
 
 CGI-2048 is an AI program for Game 2048. The current version is exactly the one used to participate in Taiwan 2048-Bot Tournament, http://2048-botcontest.twbbs.org/. The version was ranked the second as shown in http://2048-botcontest.twbbs.org/download/stats_2048.htm, its performance is also summarized as follows: 
 
-Max Score: 367956
-Ave Score: 251794.00
-Max Tile: 16384
-2048: 100%
-4096: 100%
-8192: 94%
-16384: 59%
+Max Score: 367956<br>
+Ave Score: 251794.00<br>
+Max Tile: 16384<br>
+2048: 100% <br>
+4096: 100% <br>
+8192: 94% <br>
+16384: 59% <br>
 
 Our algorithm is based on the following two papers: 
 
@@ -22,14 +22,14 @@ Sorry that we don't have much time to refactor the code and make it look nice in
 
 Based on [2], we keep improving the performance. The latest performance record was: 
 
-Max Score: 833300
-Ave Score: 446116
-Max Tile: 32768
-2048: 100%
-4096: 100%
-8192: 99.5%
-16384: 93.6%
-32768: 33.5%
+Max Score: 833300<br>
+Ave Score: 446116<br>
+Max Tile: 32768<br>
+2048: 100% <br>
+4096: 100% <br>
+8192: 99.5% <br>
+16384: 93.6% <br>
+32768: 33.5% <br>
 Speed: 661.7 moves / second. 
 
 The result beats the best 2048 AI program in the world (to the best of our knowledge), at  https://github.com/nneonneo/2048-ai/pull/27. More importantly, the speed of our program is about 300 times faster. 
