@@ -31,7 +31,7 @@ Max Tile: 32768<br>
 16384: 93.6% <br>
 32768: 33.5% <br>
 Speed: 661.7 moves / second. 
-		<table align=center border=1 bordercolor=#003366>
+		<table align=center>
 			<tr> 
 				<td>2048</td> 
 				<td>100.0%</td> 
