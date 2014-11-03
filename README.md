@@ -1,7 +1,7 @@
 CGI-2048
 ========
 
-CGI-2048 is an AI program for Game 2048. This version is exactly the one used to participate in Taiwan 2048-Bot Tournament, http://2048-botcontest.twbbs.org/. The version was ranked the second in the tournament, as shown in http://2048-botcontest.twbbs.org/download/stats_2048.htm, its performance is also summarized the table below.
+CGI-2048 is an AI program for Game 2048. This version is exactly the one used to participate in Taiwan 2048-Bot Tournament, http://2048-botcontest.twbbs.org/. The version was ranked the second in the tournament, as shown in http://2048-botcontest.twbbs.org/download/stats_2048.htm.
 
 Our algorithm is based on the following two papers: 
 
@@ -9,7 +9,7 @@ Our algorithm is based on the following two papers:
 
 [2] I-Chen Wu, Kun-Hao Yeh, Chao-Chin Liang, Chia-Chuan Chang, and Han Chiang, "Multi-Stage Temporal Difference Learning for 2048", the 2014 Conference on Technologies and Applications of Artificial Intelligence (TAAI 2014), Taipei, Taiwan, Novemeber 2014.
 
-However, we don't have much time to refactor the code and make nice documentation. To run the program, use our trained data which can be downloaded from http://aigames.nctu.edu.tw/~cgilab/download/. The code for TD learning is not included, since the performance varies depending on the trained data anyway. 
+Since we don't have much time to refactor the code and write up documents, it could be hard to read. To run the program, use our trained data which can be downloaded from http://aigames.nctu.edu.tw/~cgilab/download/. The code for TD learning is not included, since the performance varies highly depending on several parameters, such as the training times, anyway. 
 
 
 Performance comparison
@@ -73,4 +73,4 @@ Performance comparison
 	</tr> 
 </table>
 
-In the above table, we show the performance of ours as well as some top ranked 2048 programs. The first column is for CGI-2048, the version in the Taiwan 2048-Bot Tournament, while the second for the program kcwu, which won the first place in  the Taiwan 2048-Bot Tournament. The third is for the one by xificurk, which was the best 2048 AI program in the world (to our knowledge) at https://github.com/nneonneo/2048-ai/pull/27. The fourth is for our newly improved program based on [2]. The code and trained data will be leased later. The fourth outperforms the third in most indicators slightly. More importantly, its speed is about 300 times faster than the third. 
+In the above table, we show the performance of ours as well as some top ranked 2048 programs. The second column is for CGI-2048, the version in the Taiwan 2048-Bot Tournament, while the third for the program kcwu, which won the first place in  the Taiwan 2048-Bot Tournament. The fourth is for the one by xificurk, which was the best 2048 AI program in the world (to our knowledge) at https://github.com/nneonneo/2048-ai/pull/27. The fifth is for our latest improved program based on [2], whose code and trained data will be released later. The fifth outperforms the fourth in most indicators slightly. More importantly, its speed is about 300 times faster. 
