@@ -76,7 +76,7 @@ Performance comparison
 	<tr align=center> 
 		<td>Speed</td> 
 		<td>100 moves/sec</td>
-		<td>1200 moves/sec</td>
+		<td>500 moves/sec</td>
 		<td>2-3 moves/sec</td> 
 		<td>661 moves/sec</td> 
 	</tr> 
