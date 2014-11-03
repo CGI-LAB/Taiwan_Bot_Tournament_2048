@@ -17,7 +17,8 @@ Performance comparison
 
 <table align=center>
 	<tr align=center> 
-		<th>Indicators</th> 
+		<th>Indicators</th>
+		<th>kcwu</th>
 		<th>CGI-2048</th>
 		<th>Xificurk's Program</th>
 		<th>Our latest improvement</th>
@@ -25,6 +26,7 @@ Performance comparison
 	
 	<tr align=center> 
 		<td>2048</td> 
+		<td>100.0%</td>
 		<td>100.0%</td>
 		<td>100.0%</td> 
 		<td>100.0%</td> 
@@ -34,39 +36,46 @@ Performance comparison
 		<td>100.0%</td> 
 		<td>100.0%</td> 
 		<td>100.0%</td> 
+		<td>100.0%</td> 
 	</tr> 
 	<tr align=center> 
 		<td>8192</td> 
+		<td>96%</td> 
 		<td>94%</td> 
 		<td>99.1%</td> 
 		<td>99.5%</td> 
 	</tr> 
 	<tr align=center> 
-		<td>16384</td> 
+		<td>16384</td>
+		<td>67%</td>
 		<td>59%</td>
 		<td>92.7%</td> 
 		<td>93.6%</td> 
 	</tr> 
 	<tr align=center> 
-		<td>32768</td> 
+		<td>32768</td>
+		<td>2%</td>
 		<td>0%</td> 
 		<td>31.7%</td> 
 		<td>33.5%</td> 
 	</tr> 
 	<tr align=center> 
-		<td>Max score</td> 
+		<td>Max score</td>
+		<td>625260</td>
 		<td>367956</td>
 		<td>829300</td> 
 		<td>833300</td> 
 	</tr> 
 	<tr align=center> 
-		<td>Ave score</td> 
+		<td>Ave score</td>
+		<td>277965</td>
 		<td>251794</td>
 		<td>442419</td> 
 		<td>446116</td> 
 	</tr> 
 	<tr align=center> 
 		<td>Speed</td> 
+		<td>100 moves/sec</td>
 		<td>1200 moves/sec</td>
 		<td>2-3 moves/sec</td> 
 		<td>661 moves/sec</td> 
