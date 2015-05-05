@@ -78,8 +78,8 @@ Performance comparison
 		<td>500 moves/sec</td>
 		<td>>100 moves/sec</td>
 		<td>2-3 moves/sec</td> 
-		<td>661 moves/sec</td> 
+		<td>500 moves/sec</td> 
 	</tr> 
 </table>
 
-In the above table, the performances of top ranked 2048 programs are listed. The second column is for CGI-2048, the version in this repository, while the third is for the program kcwu, which won the first place in the Taiwan 2048-Bot Tournament. The fourth is for the one written by xificurk at https://github.com/nneonneo/2048-ai/pull/27. To the best of our knowledge, Xificurk's outperformed all the known 2048 programs before Octobor 2014. The fifth is for our latest improved CGI-2048 (completed in November 2014), whose code and trained data will be released later. From the table, the latest CGI-2048 is able to perform better than Xificurk's. Most importantly, it runs about 300 times faster. 
+In the above table, the performances of top ranked 2048 programs are listed. The second column is for CGI-2048, the version in this repository, while the third is for the program kcwu, which won the first place in the Taiwan 2048-Bot Tournament. The fourth is for the one written by xificurk at https://github.com/nneonneo/2048-ai/pull/27. To the best of our knowledge, Xificurk's outperformed all the known 2048 programs before Octobor 2014. The fifth is for our latest improved CGI-2048 (completed in November 2014), whose code and trained data can be referenced at https://github.com/tnmichael309/2048AI. From the table, the latest CGI-2048 is able to perform better than Xificurk's. Most importantly, it runs about 250 times faster. 
